@@ -983,7 +983,7 @@ with footer_col:
     with col1:
         st.link_button(
             "⭐ GitHub",
-            "https://github.com/Asif-Siddique",
+            "https://github.com/asif-siddiqui-9/Heart_prediction2.app",
             use_container_width=True
         )
     
@@ -1009,4 +1009,5 @@ with footer_col:
         </div>
         """,
         unsafe_allow_html=True
+
     )
